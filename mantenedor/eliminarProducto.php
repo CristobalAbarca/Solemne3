@@ -10,7 +10,7 @@
             
 
         </div>
-        <div align="right"><button><a id="cancelar" href="CarroDeCompras.php">Cancelar</a></button></div>    
+        <div align="right"><button><a id="cancelar" href="mantenedor/CarroDeCompras.php">Cancelar</a></button></div>    
         <div id="Cuerpo">
             <h1>Eliminar Producto!</h1>
             <div id="eliminarProd">

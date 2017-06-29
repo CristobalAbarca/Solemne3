@@ -10,8 +10,8 @@
         </div>
         <div align="right">
             <button><a id="cancelar" href="../index.php">Cancelar</a></button>
-            <button><a id="agregar" href="agregarVenta.php">agregar venta</a></button>
-            <button><a id="modificar" href="modificarVenta.php">modificar</a></button>
+            <button><a id="agregar" href="mantenedor/agregarVenta.php">agregar venta</a></button>
+            <button><a id="modificar" href="mantenedor/modificarVenta.php">modificar</a></button>
         </div>    
         </div>     
         <div id="contenido">

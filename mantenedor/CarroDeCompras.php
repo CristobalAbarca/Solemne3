@@ -8,9 +8,6 @@
         
         <link href="css/estilo.css?v=<?= time()?>" rel="stylesheet" type="text/css"/>
         <div  id="cabecera"><h1> <center>Edna moda</center></h1> </div>
-        
-        <div id="titulo"><?php include ('menu.php');?>  </div>
-
         <form method="POST">
         Ingrese ID del producto: <input type="text" name="id" ><br />
         Categoria: <input type="text" name="categoria" ><br />

@@ -2,4 +2,4 @@
 echo "PRODUCTO AGREGADO";
 
 ?>
-<a href="CarroDeCompras.php"> volver </a>
+<a href="mantenedor/CarroDeCompras.php"> volver </a>

@@ -11,8 +11,8 @@
         </div>
         <div align="right">
             <button><a id="cancelar" href="../index.php">Cancelar</a></button>
-            <button><a id="eliminar" href="eliminarVenta.php">eliminar venta</a></button>
-            <button><a id="modificar" href="modificarVenta.php">modificar</a></button>
+            <button><a id="eliminar" href="mantenedor/eliminarVenta.php">eliminar venta</a></button>
+            <button><a id="modificar" href="mantenedor/modificarVenta.php">modificar</a></button>
         </div>    
         <div id="contenido">
                 <h1>Crear Venta</h1>

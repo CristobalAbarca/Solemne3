@@ -10,12 +10,12 @@
             
                
             </div>
-        <div align="right"><button><a id="cancelar" href="CarroDeCompras.php">Cancelar</a></button></div>    
+        <div align="right"><button><a id="cancelar" href="mantenedor/CarroDeCompras.php">Cancelar</a></button></div>    
         <div id="Cuerpo">
               <h1>Agregar Producto!</h1>    
             <div id="AgregarProd">
               
-                <form action="agrproducto.php" method="post">     
+                <form action="controladores/agrproducto.php" method="post">     
                 <div>Nombre Producto :<input type="text" name="nameprod" ></div>        
                 <div>Categoria : </div> 
                 <div>
